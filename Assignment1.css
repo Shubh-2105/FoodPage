@@ -1,0 +1,50 @@
+html{
+    scroll-behavior:smooth;
+}
+#body{
+    background-color:grey;
+    margin:0px;
+}
+
+#div1 li:hover{
+    background-color:black;
+    }
+#div1{
+    background-color:grey;
+    margin:0px;
+    height:50px;
+    display:block;
+}
+#div1 li{
+    display:inline-block;
+    font-size:large;
+    color:white;
+    text-decoration:none;
+    list-style-type:none;
+    padding:20px;
+    margin:0px;
+}
+h1{
+    margin-left:20px;
+}
+#ul1 li a{
+    text-decoration:none;
+    color:black;
+    font-size:large;
+
+}
+#div2 img{
+    display:block;
+    margin-top:40px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#div2 p{
+    text-align:center;
+}
+
+
+
+
+
+
